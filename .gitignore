@@ -17,3 +17,11 @@ Desktop.ini
 *.tmp
 *.swp
 
+# Dependencies
+node_modules/
+
+# Production build
+dist/
+
+# Vite local files
+.vite/
