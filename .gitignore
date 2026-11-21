@@ -25,3 +25,6 @@ dist/
 
 # Vite local files
 .vite/
+
+# Local planning files
+docs/superpowers/
